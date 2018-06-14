@@ -1,3 +1,8 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  new_list = {}
+  data.each do |color_gender_lives_key, color_gender_lives_hash| 
+    color_gender_lives_hash.each do |key, name|
+      
+    end
+  end
 end
